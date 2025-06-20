@@ -1,0 +1,19 @@
+[
+    {
+      "category": "All",
+      "filter": "*"
+    },
+    {
+      "category": "Hubspot",
+      "filter": "filter-hubspot"
+    },
+    {
+      "category": "Shopify",
+      "filter": "filter-shopify"
+    },
+    {
+      "category": "Wordpress",
+      "filter": "filter-Wordpress"
+    }
+  ]
+  

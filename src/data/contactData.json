@@ -1,0 +1,26 @@
+{
+    "title": "Contact",
+    "description": "Feel free to reach out via the contact form or the information below.",
+    "address": {
+      "heading": "Address",
+      "value": "Koperkhairane, Navi Mumbai, Maharastra, 4007092"
+    },
+    "phone": {
+      "heading": "Call",
+      "value": "+91 9696855696"
+    },
+    "email": {
+      "heading": "Email",
+      "value": "soniyapal886@gmail.com"
+    },
+    "mapUrl": "  https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15080.409641071441!2d73.000484248273!3d19.103162713709338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c0da9e93097f%3A0xd54c1cc7981cf314!2sKopar%20Khairane%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1748257457323!5m2!1sen!2sin ",
+    "form": {
+      "nameLabel": "Your Name",
+      "emailLabel": "Your Email",
+      "subjectLabel": "Subject",
+      "messageLabel": "Message",
+      "buttonText": "Send Message"
+    }
+  }
+  
+

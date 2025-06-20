@@ -1,0 +1,127 @@
+[
+  {
+    "title": "Caseco Inc",
+    "description":"Web Designing & Development",
+    "image": "./assets/shopify/caseco.webp",
+    "filter": "filter-shopify",
+    "previewLink": "https://www.casecoinc.com/",
+    "detailsLink": "https://www.casecoinc.com/"
+  },
+ 
+  {
+    "title": "Be AYBL",
+    "description":"Web Designing & Development",
+    "image": " ./assets/shopify/aybl.jpeg",
+    "filter": "filter-shopify",
+    "previewLink": "https://www.beaybl.com/",
+    "detailsLink": "https://www.beaybl.com/"
+  },
+  {
+    "title": "Toshi Pets",
+    "description":"Web Designing & Development",
+    "image": " ./assets/shopify/toshi.jpeg",
+    "filter": "filter-shopify",
+    "previewLink": "https://toshipets.com/",
+    "detailsLink": "https://toshipets.com/"
+  },
+  {
+    "title": "Perfect Locks",
+    "description":"Web Designing",
+    "image": " ./assets/shopify/perfectlocks.webp",
+    "filter": "filter-shopify",
+    "previewLink": "https://www.perfectlocks.com/",
+    "detailsLink": "https://www.perfectlocks.com/"
+  },
+  {
+    "title": "Bariatric Meals Australia",
+    "description":"Web Designing & Development",
+    "image": " ./assets/shopify/bma.webp",
+    "filter": "filter-shopify",
+    "previewLink": "https://bariatricmealsaus.com.au/",
+    "detailsLink": "https://bariatricmealsaus.com.au/"
+  },
+  {
+    "title": "Mask To Me",
+    "description":"Web Designing & Development",
+    "image": " ./assets/shopify/mask-to-me.jpeg",
+    "filter": "filter-shopify",
+    "previewLink": "https://masktome.com/",
+    "detailsLink": "https://masktome.com/"
+  },
+  {
+    "title": "Veteran Benefits Australia",
+    "description":"Web Designing & Development",
+    "image": " ./assets/shopify/vetern.webp",
+    "filter": "filter-shopify",
+    "previewLink": "https://veteranbenefitsaustralia.com/",
+    "detailsLink": "https://veteranbenefitsaustralia.com/"
+  },
+  {
+    "title": "Taste Flavor Co.",
+    "description":"Web Designing & Development",
+    "image": " ./assets/shopify/taste-flavor.webp",
+    "filter": "filter-shopify",
+    "previewLink": "https://tasteflavorco.com/",
+    "detailsLink": "https://tasteflavorco.com/"
+  },
+  {
+    "title": "BenefitHub",
+    "description": "Design & Developent",
+    "image": "./assets/hubspot/benhub.webp",
+    "filter": "filter-hubspot",
+    "previewLink": "https://www.benefithub.com/"
+  },
+  {
+    "title": "Rogue Star",
+    "description": "Design & Developent",
+    "image": "./assets/hubspot/rogue-star.png",
+    "filter": "filter-hubspot",
+    "previewLink": "https://www.roguestaronline.com/"
+  },
+  {
+    "title": "Wegot",
+    "description": "Design & Developent",
+    "image": "./assets/hubspot/wegot.jpg",
+    "filter": "filter-hubspot",
+    "previewLink": "http://www.wegot.in/"
+  },
+  {
+    "title": "GCT Accounting",
+    "description": "Design",
+    "image": "./assets/hubspot/gctaccounting.png",
+    "filter": "filter-hubspot",
+    "previewLink": "https://www.gctaccounting.com/"
+  },
+  {
+    "title": "Archive 360",
+    "description": "Design & Developent",
+    "image": "./assets/hubspot/archive360.png",
+    "filter": "filter-hubspot",
+    "previewLink": "https://www.archive360.com/"
+  },
+  {
+    "title": "Zissu Global",
+    "description": "Design & Developent",
+    "image": "./assets/wordpress/zissu.png",
+    "filter": "filter-Wordpress",
+    "previewLink": "https://zissuglobal.com/"
+  },
+
+  {
+    "title": "Actis",
+    "description": "Design & Developent",
+    "image": "./assets/wordpress/actis.webp",
+    "filter": "filter-Wordpress",
+    "previewLink": "https://actis.co.in/"
+  },
+  {
+    "title": "GYM Food",
+    "description": "Design & Developent",
+    "image": "./assets/wordpress/gfa.jpeg",
+    "filter": "filter-Wordpress",
+    "previewLink": "https://gymfoodaustralia.com.au/"
+  }
+
+]
+
+

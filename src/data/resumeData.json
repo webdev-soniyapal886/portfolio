@@ -1,0 +1,90 @@
+{
+    "sectionTitle": "Resume",
+    "summary": {
+      "title": "Sumary",
+      "name": "Soniya Pal",
+      "description": "A passionate Frontend Developer with 7.0 years of experience, specializing in custom theme development and CMS-based solutions using HubSpot CMS, Shopify, and WordPress. Proficient in React.js, HTML5, CSS3, JavaScript (ES6+), SCSS, and modern UI libraries. Adept at building pixel-perfect, high-performing, and SEO-optimized websites tailored for performance and conversions. Known for translating complex requirements into intuitive user interfaces and ensuring cross-browser compatibility.",
+      "subtitle": "Skilled in:",
+      "contact": [
+       " Responsive Design & UX/UI Principles",
+       " Speed Optimization & Core Web Vitals",
+       " Theme Customization & Liquid (Shopify)",
+       " HubSpot Modules, Templates & Email Development",
+       " Collaboration with cross-functional teams"
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "items": [
+        {
+          "degree": "Bachelor of Technology (Computer Science and Engineering)",
+          "years": "Aug 2012 - Jun 2016",
+          "institute": "Prasad Institute of Management and Technology, Lucknow"  ,
+          "details": "Completed a four-year B.Tech in Computer Science, focusing on software development, data structures, and web technologies. Gained hands-on experience through coding projects and technical workshops."
+    
+          }
+      ]
+    },
+    "experience": {
+      "title": "Experience",
+      "items": [
+        {
+          "role": "Frontend Developer(Freelancer)",
+          "years": "2024 - Present",
+          "company": "Self",
+          "details": [
+            "Shopify Store Setup & Customization.",
+            "Customized Dawn theme for an online boutique.",
+            "Implemented sliders and integrated payment icons.",
+            "Designed and built custom HubSpot landing pages with email form integration and mobile responsiveness.",
+            "Created a service-based website with Elementor and contact form integration. Focused onfast-loading pages and user experience."
+          ]
+        },
+        {
+          "role": "Web Developer",
+          "years": "Jan 2022 - Apr 2023",
+          "company": "BenefitHub India Pvt Ltd, Mumbai",
+          "details": [
+            "Developed custom HubSpot CMS themes and modules, ensuring high performance and responsiveness.",
+            "Optimized website SEO and page speed using lazy loading and structured data.",
+            "Collaborated with marketing teams to build high-converting landing pages using HubSpot’s drag-and-drop builder and custom code.",
+            "Implemented HubSpot forms, dynamic content, and integrations for lead generation."
+          ]
+        },
+        {
+          "role": "Frontend Developer",
+          "years": "Sep 2019 - Nov 2021",
+          "company": "Centire Inc, Gurugram",
+          "details": [
+            "Designed and developed custom Shopify themes, ensuring a seamless user experience.",
+            "Built and maintained WordPress websites, integrating custom plugins and optimizing site speed.",
+            "Created HubSpot CMS pages with a focus on usability, performance, and SEO best practices.",
+            "Worked on third-party API integrations for Shopify and WordPress to enhance store functionalities.",
+            "Provided technical mentorship to junior developers and conducted code reviews."
+          ]
+        },
+        {
+          "role": "UI/UX Developer",
+          "years": "Oct 2017 - Aug 2019",
+          "company": "The Web Plant Pvt Ltd, New Delhi",
+          "details": [
+            "Developed and maintained custom HubSpot CMS modules and templates for marketing campaigns.",
+            "Built Shopify-based eCommerce stores, ensuring pixel-perfect design and smooth functionality.",
+            "Conducted usability testing and implemented A/B testing to improve UX.",
+            "Converted Figma & PSD designs into fully functional web pages with perfect responsiveness."
+          ]
+        },
+        {
+          "role": "Trainee Software Engineer",
+          "years": "Jan 2017 - Jul 2017",
+          "company": "Satrix Technologies, Lucknow",
+          "details": [
+            "Assisted in frontend development tasks, debugging, and optimizing UI components.",
+            "Developed custom WordPress themes and worked on Shopify store customizations.",
+            "Gained experience in HTML, CSS, JavaScript, and worked on cross-browser testing."
+          ]
+        }
+      ]
+    }
+  }
+  
