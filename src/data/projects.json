@@ -108,13 +108,6 @@
   },
 
   {
-    "title": "Actis",
-    "description": "Design & Developent",
-    "image": "./assets/wordpress/actis.webp",
-    "filter": "filter-Wordpress",
-    "previewLink": "https://actis.co.in/"
-  },
-  {
     "title": "GYM Food",
     "description": "Design & Developent",
     "image": "./assets/wordpress/gfa.jpeg",
